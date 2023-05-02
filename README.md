@@ -1,4 +1,4 @@
-# On Demand Session
+# Third-party packages uuid
 
 - Third-party packages
   - uuid
